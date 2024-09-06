@@ -1,0 +1,11 @@
+Berikut adalah alogritma untuk mencari nilai KPK 3 dan 4.
+1. Inisialisasi:
+   a. Tentukan dua bilangan yang akan dicari KPK-nya (misal, x dan y).
+   b. Inisialisasi variabel kpk dengan nilai maksimum dari kedua bilangan.
+2.Iterasi:
+   a. Selama kpk belum habis dibagi oleh kedua bilangan:
+3. Periksa apakah kpk habis dibagi oleh x dan y.
+   a. Jika ya, kembalikan nilai kpk sebagai hasil.
+   b. Jika tidak, tambahkan nilai maksimum dari x dan y ke kpk.
+4. Kembalikan hasil:
+   a. Setelah ditemukan nilai kpk yang memenuhi syarat, kembalikan nilai tersebut.

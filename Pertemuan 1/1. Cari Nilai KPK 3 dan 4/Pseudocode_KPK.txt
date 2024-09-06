@@ -1,0 +1,11 @@
+ALGORITMA KPK(x, y)
+    kpk <- maks(x, y)
+    ULANGI
+        JIKA kpk MOD x == 0 DAN kpk MOD y == 0 MAKA
+            KEMBALIKAN kpk
+        LAINNYA
+            kpk <- kpk + maks(x, y)
+    HINGGA SALAH
+
+hasil_kpk <- panggil fungsi kpk(x, y)
+TAMPILKAN "KPK dari", x, "dan", y, "adalah", hasil_kpk

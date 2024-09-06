@@ -1,0 +1,16 @@
+• Algoritma:
+1. Mulai
+2. Deklarasikan variabel:
+   a. Diameter dengan nilai 5
+   b. Tinggi dengan nilai 4
+   c. Jari_jari untuk menyimpan hasil bagi diameter dengan 2
+   d. π dengan nilai 3.14
+   e. Volume untuk menyimpan hasil perhitungan
+3. Hitung jari-jari:
+   a. Jari_jari = diameter / 2
+4. Hitung volume:
+   a. volume = (1/3) * π * jari_jari * jari_jari * tinggi
+5. Tampilkan hasil:
+   a. Tampilkan nilai volume
+6. Selesai
+

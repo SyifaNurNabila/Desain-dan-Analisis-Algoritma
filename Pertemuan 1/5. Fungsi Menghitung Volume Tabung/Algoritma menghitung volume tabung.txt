@@ -1,0 +1,12 @@
+• Algoritma:
+1. Mulai
+2. Deklarasikan variabel:
+   a. jari_jari dengan nilai 3   
+   b. tinggi dengan nilai 5
+   c. volume untuk menyimpan hasil perhitungan
+   d. π dengan nilai 3.14 
+3. Hitung volume:
+   a. volume = π * jari_jari * jari_jari * tinggi
+4. Tampilkan hasil:
+   a. Tampilkan nilai volume
+5. Selesai

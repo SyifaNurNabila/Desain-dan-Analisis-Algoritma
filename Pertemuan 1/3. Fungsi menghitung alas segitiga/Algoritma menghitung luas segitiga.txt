@@ -1,0 +1,11 @@
+• Algoritma:
+1. Mulai
+2. Deklarasikan variabel:
+   a. Alas dengan nilai 25
+   b. Tinggi dengan nilai 30
+   c. Luas untuk menyimpan hasil perhitungan
+3. Hitung luas:
+   a. Luas = (alas * tinggi) / 2
+4. Tampilkan hasil:
+   a. Tampilkan nilai luas
+5. Selesai

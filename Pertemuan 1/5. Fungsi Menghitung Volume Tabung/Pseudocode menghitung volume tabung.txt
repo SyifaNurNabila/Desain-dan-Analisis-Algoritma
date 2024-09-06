@@ -1,0 +1,7 @@
+MULAI
+    jari_jari ← 3
+    tinggi ← 5
+    π ← 3.14
+    volume ← π * jari_jari * jari_jari * tinggi
+    TAMPILKAN "Volume tabung adalah:", volume
+SELESAI

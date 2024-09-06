@@ -1,0 +1,8 @@
+MULAI
+    DIAMETER ← 5
+    TINGGI ← 4
+    JARI_JARI ← DIAMETER / 2
+    π ← 3.14
+    VOLUME ← (1/3) * π * JARI_JARI * JARI_JARI * TINGGI
+    TAMPILKAN "Volume kerucut adalah:", VOLUME
+SELESAI

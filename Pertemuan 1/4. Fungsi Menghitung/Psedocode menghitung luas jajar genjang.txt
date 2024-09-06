@@ -1,0 +1,6 @@
+MULAI
+    alas ← 5
+    tinggi ← 3
+    luas ← alas * tinggi
+    TAMPILKAN "Luas segitiga adalah:", luas
+AKHIR
